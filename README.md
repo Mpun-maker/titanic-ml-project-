@@ -370,6 +370,20 @@ Titanic-ML-Project/
 
 ---
 
+
+## Live Demo
+
+The Titanic Survival Prediction application is deployed using Streamlit Community Cloud.
+
+**Live Application:**
+`https://nwxhjrlz62askfshgsicx8.streamlit.app/`
+
+You can enter passenger information and receive a predicted survival class along with the model's estimated survival probability.
+---
+
+---
+
+
 ## 🚀 Installation
 
 ### 1. Clone the repository
